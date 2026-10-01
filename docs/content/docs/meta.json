@@ -44,6 +44,7 @@
     "opencode-deepseek",
     "grok-build",
     "hermes",
+    "openclaw",
     "mcp",
     "---Configuration---",
     "configuration",
@@ -63,6 +64,8 @@
     "runtime-rollouts",
     "benchmarks",
     "limitations",
+    "---Security---",
+    "security-model",
     "---Help---",
     "errors",
     "troubleshooting"

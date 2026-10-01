@@ -44,6 +44,8 @@
     "opencode-deepseek",
     "grok-build",
     "hermes",
+    "oauth2-upstream",
+    "agent-hooks",
     "openclaw",
     "mcp",
     "---Configuration---",
